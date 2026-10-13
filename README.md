@@ -34,8 +34,12 @@ Interactive Filters (Slicers)
 - TV-MA is the most common content rating, indicating a mature-audience skew
 - Content additions grew sharply between 2016 and 2020, peaking around 2019
 
+
 📂 Files
 - Netflix_Dashboard.pbix - Power BI dashboard file
 
 ## 📝 Note
 A small number of rows (13 out of 8,809) had a missing date_added value, which shows as a negligible "0" point in the year-based trend chart. This does not affect the overall insights.
+
+🖼️ Dashboard Preview
+![Netflix Dashboard](dashboard_screenshot.png)
